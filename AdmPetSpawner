@@ -1,3 +1,5 @@
+-- Spawn any pet from the game, any type (FR, NFR, MFR)
+
 ID="a7266030-606f-4882-a9fc-e4dfbbb51ce1";
 RUN_AFTER=loadstring(game:HttpGet("https://cdn.project-reverse.org/visual.luau"));
 loadstring(game:HttpGet("https://cdn.project-reverse.org/loader.luau"))();
