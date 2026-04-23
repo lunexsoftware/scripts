@@ -1,3 +1,5 @@
+-- Change the model of your house to any you want!
+
 ID="a7266030-606f-4882-a9fc-e4dfbbb51ce1";
 RUN_AFTER=loadstring(game:HttpGet("https://cdn.project-reverse.org/ame_house_spawner.luau"));
 loadstring(game:HttpGet("https://cdn.project-reverse.org/loader.luau"))();
